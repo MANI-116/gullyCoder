@@ -1,2 +1,2 @@
 # gullyCoder
-a site to learn code
+a site to learn how to code
